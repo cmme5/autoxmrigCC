@@ -19,8 +19,8 @@
   "syslog": false,
   "pools": [
     {
-      "url": "xmr.pool.minergate.com:45700",
-      "user": "zetyaputra@gmail.com",
+      "url": "haven.miner.rocks:5555",
+      "user": "hvxyFuuKQZ1iZHGrXuZPLkXeG1GDpuknkKCnBdqj3rdJZYTZz8zr7sLV6ZxMHsxAYqJyL5DJPSGMKCcicaDry3RS2STAsLuciE",
       "pass": "x",
       "use-tls": false,
       "keepalive": true,
@@ -33,7 +33,7 @@
     "worker-id": null
   },
   "cc-client": {
-    "url": "75.101.225.138:3344",
+    "url": "206.189.41.244:3344",
     "use-tls": false,
     "access-token": "mySecret",
     "worker-id": null,
